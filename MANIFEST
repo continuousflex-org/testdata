@@ -1,0 +1,11 @@
+gold/images_WS_pseudoatoms.xmd ca3e7b9ddadecc8c3f8d5179d82a1aad
+gold/images_WS_atoms.xmd 757f6a9fd1db092a1848fb32cc784aae
+volumes/AK_LP10.vol cc095feaebdd56d80a8dece6256d2f44
+clusters/atomic/left.sqlite 0b0f9dafed377222451cdf5e30cd863b
+clusters/atomic/right.sqlite d330ecbe4a43c65eee61aa727bb60ca1
+clusters/pseudo/left.sqlite 3bace42db47df5bf2f9b1109e977d0e0
+clusters/pseudo/right.sqlite bd38b799ac5ce58cc8bbb79d960912cb
+pdb/AK.pdb 501d2fe7ea22801e0eb514fe3024a5c7
+test_alignment_10images/gold/images_PM_atoms_smallstack.xmd 88ea478930666ac62f7c6919f7fa8a79
+test_alignment_10images/particles/smallstack_img.stk d53a8b94d63ba4c25f8b8a59c3094406
+particles/img.stk 85d099dbc62177f0cef7c169afcf0fda

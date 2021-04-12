@@ -1,0 +1,24 @@
+# XMIPP_STAR_1 * 
+# 
+data_noname
+loop_
+ _image
+ _enabled
+ _angleRot
+ _angleTilt
+ _anglePsi
+ _shiftX
+ _shiftY
+ _nmaDisplacements
+ _cost
+ _itemId
+000001@Runs/001903_XmippProtCropResizeParticles/extra/output_images.stk                    1  -155.019955    58.425504   360.007624    -0.141481    -1.857502 '   -27.190300   -28.402500 '     0.001780                    1 
+000003@Runs/001903_XmippProtCropResizeParticles/extra/output_images.stk                    1   -86.853848    36.209955   359.817460    -0.096477    -0.252971 '   -47.818900   -44.565000 '     0.002404                    3 
+000002@Runs/001903_XmippProtCropResizeParticles/extra/output_images.stk                    1    25.623778   349.995484  -178.907936    -2.203923    -0.733692 '   -40.111900   -41.216400 '     0.002121                    2 
+000004@Runs/001903_XmippProtCropResizeParticles/extra/output_images.stk                    1    -5.798039   279.652968  -127.570415    -2.195679    -0.868547 '  -124.602000   446.553000 '     0.076827                    4 
+000005@Runs/001903_XmippProtCropResizeParticles/extra/output_images.stk                    1   158.734690    82.370491    -0.034869    -1.495076    -1.668336 '   -10.888000   -11.960100 '     0.001806                    5 
+000006@Runs/001903_XmippProtCropResizeParticles/extra/output_images.stk                    1   -95.251438    18.829686   359.955282    -1.412725    -1.284516 '   -85.542400   -78.633600 '     0.002185                    6 
+000007@Runs/001903_XmippProtCropResizeParticles/extra/output_images.stk                    1   -84.756343   139.996474   359.766641    -0.570232    -1.762024 '   -16.323500   -15.578100 '     0.002043                    7 
+000008@Runs/001903_XmippProtCropResizeParticles/extra/output_images.stk                    1    44.497283   140.367676    -0.212208    -2.389911    -0.920771 '   -34.751500   -33.494700 '     0.002079                    8 
+000009@Runs/001903_XmippProtCropResizeParticles/extra/output_images.stk                    1   105.418144   230.568886  -179.980164    -1.682207    -0.287107 '   -86.224900   -87.607600 '     0.002117                    9 
+000010@Runs/001903_XmippProtCropResizeParticles/extra/output_images.stk                    1    -9.796646    80.606187    -0.047759    -2.144838    -0.886466 '   -35.868000   -38.980100 '     0.001665                   10 
